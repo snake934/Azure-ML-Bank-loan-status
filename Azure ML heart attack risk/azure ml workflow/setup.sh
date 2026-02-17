@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 suffix=$(tr -dc 'A-Za-z0-9' < /dev/urandom | head -c 6 )
-RESOURCE_GROUP="rg-heart-attack-risk-${suffix}"
+RESOURCE_GROUP="rg-bank-loan-${suffix}"
 RESOURCE_PROVIDER="Microsoft.MachineLearningServices"
 REGION=("uksouth")
-WORKSPACE_NAME="ws-heart-attack-risk-${suffix}"
+WORKSPACE_NAME="ws-bank-loan-${suffix}"
 COMPUTE_INSTANCE="ci${suffix}"
 COMPUTE_CLUSTER="aml-cluster"
 
