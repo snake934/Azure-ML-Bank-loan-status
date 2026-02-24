@@ -1,7 +1,7 @@
 # MLTable definition file
 
 paths:
-  - file: ./diabetes.csv
+  - file: ./loandata.csv
 transformations:
   - read_delimited:
         delimiter: ','
