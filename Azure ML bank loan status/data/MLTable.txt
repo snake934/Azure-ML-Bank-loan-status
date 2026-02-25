@@ -1,8 +1,0 @@
-# MLTable definition file
-
-paths:
-  - file: ./bank_loan_data.csv
-transformations:
-  - read_delimited:
-        delimiter: ','
-        encoding: 'ascii'
