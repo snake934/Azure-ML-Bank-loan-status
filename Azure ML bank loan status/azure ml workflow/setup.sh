@@ -27,4 +27,4 @@ az ml compute create --name ${COMPUTE_INSTANCE} --size Standard_E4ds_v4 --type C
 
 echo "Create compute cluster"
 echo "Creating a compute cluster: " $COMPUTE_CLUSTER
-az ml compute create --name ${COMPUTE_CLUSTER} --size Standard_E4ds_v4 --max-instances 2 --type AmlCompute 
+az ml compute create --name ${COMPUTE_CLUSTER} --size Standard_E4s_v3 --max-instances 4 --type AmlCompute 
