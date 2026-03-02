@@ -1,0 +1,104 @@
+Starting the automl_driver setup...
+Importing plotly failed. Interactive plots will not work.
+Set enable_streaming flag to False
+run_id in the real script:  affable_sponge_tdrx61lbhy_8
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_subgraph_orchestration
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_automode
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter IsImageTask
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter IsTextDNNTask
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter max_nodes
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter distributed_dnn_max_node_check
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_featurization
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_dnn_training
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_dnn_training_ort_ds
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_cache
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter use_incremental_learning_override
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_gpu_tmp
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter vm_priority
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter miro_flight
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter many_models_process_count_per_node
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter automl_many_models_scenario
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_mltable_quick_profile
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter has_multiple_series
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter ensemble_download_models_timeout_sec
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter stack_meta_learner_train_percentage
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter process_count_per_instance
+2026-02-24:07:43:25,307 WARNING  [automl_base_settings.py:765] Received unrecognized parameter gpu_memory_gb
+2026-02-24 07:43:25,312673 - INFO - Beginning driver wrapper.
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_subgraph_orchestration
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_automode
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter IsImageTask
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter IsTextDNNTask
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter max_nodes
+2026-02-24:07:43:25,432 WARNING  [automl_base_settings.py:765] Received unrecognized parameter distributed_dnn_max_node_check
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_featurization
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_dnn_training
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_distributed_dnn_training_ort_ds
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_cache
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter use_incremental_learning_override
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter is_gpu_tmp
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter vm_priority
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter miro_flight
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter many_models_process_count_per_node
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter automl_many_models_scenario
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter enable_mltable_quick_profile
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter has_multiple_series
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter ensemble_download_models_timeout_sec
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter stack_meta_learner_train_percentage
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter process_count_per_instance
+2026-02-24:07:43:25,433 WARNING  [automl_base_settings.py:765] Received unrecognized parameter gpu_memory_gb
+2026-02-24:07:43:25,433 INFO     [datastore_client.py:991] <azureml.core.authentication.AzureMLTokenAuthentication object at 0xa93899faa70>
+2026-02-24 07:43:25.545 - INFO - Successfully got the cache data store, caching enabled.
+2026-02-24 07:43:25.546 - INFO - Took 0.11282992362976074 seconds to retrieve cache data store
+2026-02-24 07:43:25.547 - INFO - No files are available for the cache store locally, downloading files from the Run.
+2026-02-24 07:43:25.906 - INFO - Loading from file cache
+2026-02-24 07:43:25.908 - INFO - Requested a new ExperimentStore instance.
+2026-02-24 07:43:25.909 - INFO - Created ExperimentStore with ID: 11626430217568.
+2026-02-24 07:43:25.971 - INFO - Loading from file cache
+2026-02-24 07:43:25.973 - INFO - Getting data for key: ExperimentData_materialized
+2026-02-24 07:43:25.974 - INFO - Getting data for key: ExperimentData_lazy
+2026-02-24 07:43:25.974 - INFO - Getting data for key: ExperimentData_partitioned
+2026-02-24 07:43:25.974 - INFO - Getting data for key: ExperimentMetadata
+2026-02-24 07:43:25.975 - INFO - Getting data for key: ExperimentMetadata_Timeseries
+2026-02-24 07:43:25.975 - INFO - Getting data for key: ExperimentMetadata_Regression
+2026-02-24 07:43:25.975 - INFO - Getting data for key: ExperimentMetadata_Classification
+2026-02-24 07:43:25.980 - INFO - Feature sweeping enabled: False
+2026-02-24 07:43:25.980 - INFO - Feature sweeping timeout: 86400
+2026-02-24 07:43:25.988 - INFO - Beginning the training iteration for run affable_sponge_tdrx61lbhy_8.
+2026-02-24 07:43:25.989 - INFO - [RunId:affable_sponge_tdrx61lbhy_8]CPU logical cores: 4, CPU cores: 4, virtual memory: 14659072000, swap memory: 0.
+2026-02-24 07:43:25.989 - INFO - [RunId:affable_sponge_tdrx61lbhy_8]Platform information: Linux.
+2026-02-24 07:43:26.000 - INFO - Component PrepareData finished after 0.00017523333333333336 minutes.
+2026-02-24:07:43:26,15 WARNING  [automl_base_settings.py:765] Received unrecognized parameter ensemble_download_models_timeout_sec
+2026-02-24 07:43:26.084 - INFO - Limits set to mem_in_mb=None, wall_time_in_s=1200, total_wall_time_in_s=31449600, cpu_time_in_s=None, num_processes=None, grace_period_in_s=None, 
+2026-02-24 07:43:26.088 - INFO - Calling function <bound method ClientRunner._run_ensembling_internal of <azureml.automl.runtime.shared.runner.ClientRunner object at 0xa934ffc7fa0>> with argument types: [<class 'azureml.automl.runtime.shared.pipeline_spec.PipelineSpec'>, <class 'azureml.automl.runtime.shared.problem_info.ProblemInfo'>], {'sets_to_run': <class 'list'>, 'subsample_percent': <class 'float'>, 'random_state': <class 'NoneType'>, 'subsample_seed': <class 'NoneType'>, 'include_models': <class 'bool'>, 'compute_metrics_for_train_full': <class 'bool'>, 'cache_store': <class 'azureml.automl.runtime.shared.run_backed_cache_store.RunBackedCacheStore'>}
+2026-02-24 07:43:38.899 - INFO - Pipeline execution finished with a score of 0.8137015873015873
+2026-02-24 07:43:38.921 - INFO - Saving the partially trained fitted models.
+2026-02-24 07:43:45.878 - INFO - mlflow metadata base_image: {'azureml.base_image': 'mcr.microsoft.com/azureml/curated/ai-ml-automl:38', 'azureml.engine': 'automl'}
+2026-02-24 07:43:45.879 - INFO - Logging MLFlow model to tracking store.
+2026-02-24 07:43:45.879 - INFO - Saving sklearn model to outputs/mlflow-model.
+2026-02-24:07:43:46,805 INFO     [utils.py:172] Parsing artifact uri azureml://uksouth.api.azureml.ms/mlflow/v2.0/subscriptions/e4b55002-5402-4eb7-b4ec-feb75f3b92ac/resourceGroups/rg-bank-loan-sHhFfc/providers/Microsoft.MachineLearningServices/workspaces/ws-bank-loan-sHhFfc/experiments/04d7c10f-7cd8-4ad3-9df0-7582ee422ed7/runs/affable_sponge_tdrx61lbhy_8/artifacts
+2026-02-24:07:43:46,806 INFO     [utils.py:188] Artifact uri azureml://uksouth.api.azureml.ms/mlflow/v2.0/subscriptions/e4b55002-5402-4eb7-b4ec-feb75f3b92ac/resourceGroups/rg-bank-loan-sHhFfc/providers/Microsoft.MachineLearningServices/workspaces/ws-bank-loan-sHhFfc/experiments/04d7c10f-7cd8-4ad3-9df0-7582ee422ed7/runs/affable_sponge_tdrx61lbhy_8/artifacts info: {'sub-id': 'e4b55002-5402-4eb7-b4ec-feb75f3b92ac', 'res-grp': 'rg-bank-loan-sHhFfc', 'ws-name': 'ws-bank-loan-sHhFfc', 'experiment': '04d7c10f-7cd8-4ad3-9df0-7582ee422ed7', 'runid': 'affable_sponge_tdrx61lbhy_8'}
+2026-02-24 07:43:47.563 - INFO - Saved mlflow model successfully.
+2026-02-24 07:43:48.091 - INFO - Updating child run properties with model name affablespongetd8 and size 359425 bytes.
+2026-02-24 07:43:48.175 - WARNING - Skipping logging uncomputed binary metric precision_score_binary
+2026-02-24 07:43:48.176 - WARNING - Skipping logging uncomputed binary metric average_precision_score_binary
+2026-02-24 07:43:48.176 - WARNING - Skipping logging uncomputed binary metric AUC_binary
+2026-02-24 07:43:48.176 - WARNING - Skipping logging uncomputed binary metric f1_score_binary
+2026-02-24 07:43:48.176 - WARNING - Skipping logging uncomputed binary metric recall_score_binary
+2026-02-24 07:43:48.176 - WARNING - Unknown metric models. Will not log.
+2026-02-24 07:43:48.433 - INFO - run_id:affable_sponge_tdrx61lbhy_8, pipeline_id:__AutoML_Ensemble__,The following metrics have been logged for the child run: {'AUC_micro': 0.8545476087679515, 'accuracy': 0.8137015873015873, 'log_loss': 0.47242698448779236, 'AUC_macro': 0.7747753474863607, 'AUC_weighted': 0.7747753474863607, 'precision_score_macro': 0.8541971540214368, 'f1_score_macro': 0.7347070994896103, 'f1_score_micro': 0.8137015873015873, 'precision_score_weighted': 0.8337302123939058, 'recall_score_weighted': 0.8137015873015873, 'weighted_accuracy': 0.8877570115047579, 'balanced_accuracy': 0.7097610028617988, 'recall_score_micro': 0.8137015873015873, 'precision_score_binary': 0.795051606413727, 'matthews_correlation': 0.544548778871671, 'norm_macro_recall': 0.4195220057235976, 'average_precision_score_binary': 0.8590404508369099, 'recall_score_macro': 0.7097610028617988, 'AUC_binary': 0.7747753474863607, 'f1_score_binary': 0.8781625906074535, 'accuracy_table': <class 'dict'>, 'average_precision_score_macro': 0.7819628498582338, 'f1_score_weighted': 0.7909304748798212, 'average_precision_score_weighted': 0.8140297116232744, 'recall_score_binary': 0.9814913626140251, 'precision_score_micro': 0.8137015873015873, 'confusion_matrix': <class 'dict'>, 'average_precision_score_micro': 0.8388361797643784, 'predict_time': 0.0429916, 'models': <class 'dict'>}.
+2026-02-24 07:43:48.833 - INFO - Child run completed with accuracy=0.8137015873015873 after 4 seconds.
+2026-02-24 07:43:48.899 - INFO - Code generation enabled: True
+2026-02-24 07:43:48.900 - INFO - Generating code for the trained model.
+2026-02-24 07:43:49.306 - INFO - Script has been generated, output saved to outputs/generated_code/script.py
+2026-02-24 07:43:49.840 - INFO - Loading notebook script_run
+2026-02-24 07:43:49.846 - INFO - Notebook arguments: {'compute_sku', 'subscription_id', 'automl_child_run_id', 'script_filename', 'workspace_name', 'environment_name', 'script_arguments', 'environment_version', 'compute_target', 'resource_group', 'experiment_name', 'child_run_url'}
+2026-02-24 07:43:49.963 - INFO - Unused arguments: {'training_package'}
+2026-02-24 07:43:50.098 - INFO - Notebook has been generated, output saved to outputs/generated_code/script_run_notebook.ipynb
+2026-02-24 07:43:50.168 - INFO - Resetting ExperimentStore ID: 11626430217568
+{'score': 0.8137015873015873, 'score_table': 'NaN', 'run_properties': 'classification_labels=numpy.array([0, 1]', 'pipeline_script': '{"pipeline_id":"__AutoML_Ensemble__","objects":[{"module":"azureml.train.automl.ensemble","class_name":"Ensemble","spec_class":"sklearn","param_args":[],"param_kwargs":{"automl_settings":"{\'task_type\':\'classification\',\'primary_metric\':\'accuracy\',\'verbosity\':20,\'ensemble_iterations\':10,\'ensemble_download_models_timeout_sec\':300,\'is_timeseries\':False,\'compute_target\':\'cluster\',\'subscription_id\':\'e4b55002-5402-4eb7-b4ec-feb75f3b92ac\',\'time_column_name\':None,\'grain_column_names\':None}","ensemble_run_id":"affable_sponge_tdrx61lbhy_8","experiment_name":"auto-ml-bank-loan","workspace_name":"ws-bank-loan-shhffc","subscription_id":"e4b55002-5402-4eb7-b4ec-feb75f3b92ac","resource_group_name":"rg-bank-loan-shhffc"}}]}', 'pipeline_id': '__AutoML_Ensemble__', 'training_type': 'MeanCrossValidation', 'num_classes': None, 'predicted_time': 0.0, 'fit_time': 4, 'goal': 'accuracy_max', 'primary_metric': 'accuracy', 'errors': {}, 'onnx_model': None, 'onnx_model_resource': {}, 'onnx_featurizer_model': None, 'onnx_estimator_model': None, 'accuracy': 0.8137015873015873, 'error_code': None, 'failure_reason': None, 'run_preprocessor': None, 'run_algorithm': 'VotingEnsemble'}
+Cleaning up all outstanding Run operations, waiting 300.0 seconds
+2 items cleaning up...
+Cleanup took 5.179442644119263 seconds
+2026/02/24 07:43:55 INFO mlflow.tracking._tracking_service.client: 🏃 View run eager_pipe_gbstrsbj at: https://uksouth.api.azureml.ms/mlflow/v2.0/subscriptions/e4b55002-5402-4eb7-b4ec-feb75f3b92ac/resourceGroups/rg-bank-loan-shhffc/providers/Microsoft.MachineLearningServices/workspaces/ws-bank-loan-shhffc/#/experiments/04d7c10f-7cd8-4ad3-9df0-7582ee422ed7/runs/affable_sponge_tdrx61lbhy_8.
+2026/02/24 07:43:55 INFO mlflow.tracking._tracking_service.client: 🧪 View experiment at: https://uksouth.api.azureml.ms/mlflow/v2.0/subscriptions/e4b55002-5402-4eb7-b4ec-feb75f3b92ac/resourceGroups/rg-bank-loan-shhffc/providers/Microsoft.MachineLearningServices/workspaces/ws-bank-loan-shhffc/#/experiments/04d7c10f-7cd8-4ad3-9df0-7582ee422ed7.
