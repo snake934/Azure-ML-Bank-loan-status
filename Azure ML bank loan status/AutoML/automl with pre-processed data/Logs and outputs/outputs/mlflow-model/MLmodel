@@ -1,0 +1,37 @@
+artifact_path: outputs/mlflow-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: pickle
+    sklearn_version: 1.5.1
+metadata:
+  azureml.base_image: mcr.microsoft.com/azureml/curated/ai-ml-automl:38
+  azureml.engine: automl
+mlflow_version: 2.15.1
+model_size_bytes: 639976
+model_uuid: 737ba2c8f7ed4ad29265092f3650f181
+run_id: cyan_curtain_q1xf29lk23_9
+signature:
+  inputs: '[{"type": "long", "name": "Column1", "required": true}, {"type": "boolean",
+    "name": "Gender", "required": true}, {"type": "boolean", "name": "Married", "required":
+    true}, {"type": "double", "name": "Dependents", "required": true}, {"type": "boolean",
+    "name": "Education", "required": true}, {"type": "boolean", "name": "Self_Employed",
+    "required": true}, {"type": "long", "name": "ApplicantIncome", "required": true},
+    {"type": "double", "name": "CoapplicantIncome", "required": true}, {"type": "double",
+    "name": "LoanAmount", "required": true}, {"type": "double", "name": "Loan_Amount_Term",
+    "required": true}, {"type": "double", "name": "Credit_History", "required": true},
+    {"type": "boolean", "name": "Property_Area_Rural", "required": true}, {"type":
+    "boolean", "name": "Property_Area_Semiurban", "required": true}, {"type": "boolean",
+    "name": "Property_Area_Urban", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "bool", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2026-02-25 09:50:56.601122'
